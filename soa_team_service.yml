@@ -1,0 +1,2 @@
+team-service:
+  api-base-url: https://haproxy:8443/v1
